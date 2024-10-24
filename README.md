@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hereby the finished assessment, please leave any feedback or comments where I can improve 🦫😄
 
-Things you may want to cover:
+Ruby version: 3.1.2
+Rails version: 7.0.8.5
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Note: specs are located under the spec folder, not the default test folder
